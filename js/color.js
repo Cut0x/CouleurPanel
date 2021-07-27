@@ -1,5 +1,3 @@
-//https://github.com/bgrins/TinyColor
-
 var addSwatch = document.getElementById('add-swatch');
 var modeToggle = document.getElementById('mode-toggle');
 var swatches = document.getElementsByClassName('default-swatches')[0];
